@@ -1,0 +1,11 @@
+{
+  "name": "SAAPO",
+  "symbol": "SAAPO",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Official token of SAAPO technology by Jogada de Ouro.",
+  "website": "https://www.jogadadeouro.com.br/",
+  "explorer": "https://polygonscan.com/address/0x83d355209728769dbb08305ca015b09e83cb1acf",
+  "status": "active",
+  "id": "0x83d355209728769dbb08305ca015b09e83cb1acf"
+}
